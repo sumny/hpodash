@@ -30,7 +30,7 @@ Apparently the first (0) epoch is after initialization and no training being don
 The last (51) epoch often has the same performance metrics as the penultimate (50) therefore people usually drop it.
 Therefore, the relevant epoch subset is considered `[1, ..., 50]`.
 Moreover, the final metrics in `["log"]` do not always match the metrics in `["results"]` (maybe retraining on all train and validation data was performed but this is not documented).
-Therefore, we always use the `"log"` data.
+Therefore, we always use the `["log"]` data.
 
 ## Citation:
 
