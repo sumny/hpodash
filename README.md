@@ -1,6 +1,6 @@
 # hpodash
 
-A collection of preprocessing scripts for getting existing pre-collected tabular HPO data into a common long `csv` format.
+A collection of preprocessing scripts for getting existing pre-collected HPO data into a common long `csv` format.
 This is for example useful to quickly visualize learning curves for all configurations of a given task.
 
 ## Notes:
