@@ -1,0 +1,10 @@
+*.json
+*.zip
+*.gz
+*.hdf5
+*.jsonl
+*.tar.gz
+data*
+pd1/pd1/*
+.idea
+
