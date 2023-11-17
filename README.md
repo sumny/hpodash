@@ -21,4 +21,4 @@ This is for example useful to quickly visualize learning curves for all configur
 * TabZilla? (https://github.com/naszilla/tabzilla)
 * TabRepo (https://github.com/autogluon/tabrepo)
 * Revisiting Deep Learning Models for Tabular Data (https://github.com/yandex-research/tabular-dl-revisiting-models)
-* Why Do Tree-Based Models Still Outperform Deep Learning on Tabular Data (https://github.com/LeoGrin/tabular-benchmark)?
+* Why Do Tree-Based Models Still Outperform Deep Learning on Tabular Data? (https://github.com/LeoGrin/tabular-benchmark)
